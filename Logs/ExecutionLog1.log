@@ -105,3 +105,13 @@
 2025-05-10 22:58:49,591 [main] INFO 23rdNov24_CoverFox - enter mobile no
 2025-05-10 22:58:49,662 [main] INFO 23rdNov24_CoverFox - Clicking on coverFox address details
 2025-05-10 22:58:58,917 [main] WARN 23rdNov24_CoverFox - if test case is failed
+2025-05-18 00:03:36,942 [main] INFO 23rdNov24_CoverFox - Welcome To CoverFoxTesting 
+2025-05-18 00:03:48,968 [main] INFO 23rdNov24_CoverFox - launching Browser
+2025-05-18 00:03:52,254 [main] INFO 23rdNov24_CoverFox - Clicking On Gender
+2025-05-18 00:03:53,442 [main] INFO 23rdNov24_CoverFox - Click In Next Button Health Page
+2025-05-18 00:04:03,026 [main] INFO 23rdNov24_CoverFox - HandleAgeDropDown
+2025-05-18 00:04:03,232 [main] INFO 23rdNov24_CoverFox - click on coverFox Member Details 
+2025-05-18 00:04:05,478 [main] INFO 23rdNov24_CoverFox - enter pin code
+2025-05-18 00:04:05,794 [main] INFO 23rdNov24_CoverFox - enter mobile no
+2025-05-18 00:04:06,110 [main] INFO 23rdNov24_CoverFox - Clicking on coverFox address details
+2025-05-18 00:04:15,648 [main] WARN 23rdNov24_CoverFox - if test case is failed
