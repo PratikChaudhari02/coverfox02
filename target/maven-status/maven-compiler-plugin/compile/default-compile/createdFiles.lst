@@ -1,9 +1,9 @@
 com\coverFox_POM\CoverFoxHomePage.class
 com\Listner\Listener.class
 com\coverFox_Base\Base.class
-com\coverFox_POM\CoverFoxMemberDetails.class
-com\coverFox_POM\CoverFoxHealthPlan.class
 com\coverFox_POM\CoverfoxResultspage.class
-com\coverFox_Utility\Utility.class
 com\coverFox_POM\CoverFoxAddressDetails.class
 com\Listner\ExtentReporterNG.class
+com\coverFox_POM\CoverFoxMemberDetails.class
+com\coverFox_POM\CoverFoxHealthPlan.class
+com\coverFox_Utility\Utility.class

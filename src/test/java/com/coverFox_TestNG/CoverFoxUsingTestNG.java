@@ -85,6 +85,10 @@ public class CoverFoxUsingTestNG extends Base {
 		  Reporter.log("plan no are matching Tc is passed",true);
 		  Utility.screenShort(driver,"validatePlancardAndText");
 		  logger.warn("if test case is failed");
+		  
+		  Reporter.log("First change made",true);
+		  Reporter.log("Second change made",true);
+		  Reporter.log("Third change made",true);
 		
 		  
 	  }
